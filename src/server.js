@@ -31,7 +31,7 @@ app.use(
   )
 );
 
-const server = app.listen(3000);
+const server = app.listen(process.env.PORT || 3000);
 const wss = new ws.Server({ noServer: true });
 
 const simulator = new Simulator(game);
