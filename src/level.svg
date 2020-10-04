@@ -1,0 +1,2818 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="level.svg"
+   inkscape:export-filename="C:\Users\bob\projects\ld47\src\foreground.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="782.18471"
+     inkscape:cy="87.865435"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="25.324405,157.61608"
+       orientation="1,0"
+       id="guide4530"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.6903661,193.36951"
+       orientation="0,1"
+       id="guide4532"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4534"
+       spacingx="8"
+       spacingy="8"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="background"
+     style="display:none" />
+  <g
+     inkscape:label="map"
+     inkscape:groupmode="layer"
+     id="map"
+     style="display:inline">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01968348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 20,0 V 768 H 480 V 576 h 32 l 160,160 h 48 l 8.83789,-1.94336 8.99609,-1.69922 9.05469,-1.61133 9.01367,-1.67382 8.86914,-1.89454 8.625,-2.26367 8.28125,-2.79101 7.83399,-3.47071 7.28711,-4.30273 6.63672,-5.28906 5.89062,-6.42969 5.03906,-7.72266 4.08789,-9.17187 3.03516,-10.77344 1.88281,-12.52734 L 824,648 v -8 -16 h 64 v -48 h -16 v -16 h 16 v -16 h -40 v -16 h 40 v -16 h -64 v -16 l 8,-8 h 56 32 l 8,4 v 8 h -24 v 44 h 16 l 8,4 v 8 h -24 v 44 h 16 l 8,4 v 8 h -24 v 44 h 16 l 8,4 v 8 h -24 v 44 h 16 l 8,4 v 8 h -24 v 44 h 120 V 336 H 192 v -16 l 64,-24 h 78 l 128,-16 h 24 v 16 l 128,-16 h 8 v 16 h 146 256 V 0 h 64 v 320 16 432 64 H 0 V 0 Z"
+       id="path5096"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01968348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 858.23438,33.75 v 17.511719 h 54.21874 l 26.43555,15.261719 V 177.13086 l -22.85742,22.85937 H 64 V 296 h 48 l 64,24 v 16 H 64 v 48 h 112 v 32 l 16,16 h 192 v -8 h 24 v -8 h 24 v -8 h 32 v -8 h 40 v -8 h 48 v -8 h 24 v -8 h 24 v -8 h 24 v -12 h 96 l 16.80273,7.33203 14.22852,6.39063 13.81836,7.13281 13.59375,7.53906 L 792,392 l 11.30469,7.5918 11.46484,6.53711 11.64453,5.35547 11.8418,4.04296 12.06055,2.60352 12.29687,1.03125 12.55469,-0.66602 L 888,416 l 17.08984,-3.18359 15.66016,0.14062 14.50391,2.82813 13.62109,4.88281 13.01172,6.29883 12.67578,7.07812 12.61328,7.22266 L 1008,448 v 8 92 8 48 8 48 8 48 8 20 h -16 v -20 h -24 v -8 l 8,-4 h 16 v -44 h -24 v -8 l 8,-4 h 16 v -44 h -24 v -8 l 8,-4 h 16 v -44 h -24 v -8 l 8,-4 h 16 V 456 H 744 v 32 h 56 l 8,8 v 16 h -64 v 16 h 40 v 16 h -40 v 16 h 16 v 16 h -16 v 48 h 64 v 16 H 744 728 V 456 H 64 V 744 H 40 V 48 h 48 v 96 h 144 v -20 h 24 v -20 h 24 V 84 h 24 v 60 h 96 v -16 h 20 V 96 h 32.47266 l 144.32031,8.86719 h 41.83789 l 54.35742,-54.355471 h 77.18945 V 35.294922 h 21.61915 v 15.451172 h 42.24218 V 33.75 Z"
+       id="path4545"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01968348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 336,24 h 28 v 80 h 20 v 16 h -8 -40 z"
+       id="path4541"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 960,272 H 832 v -8 l 128,-16 z"
+       id="path4551-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 808,272 H 680 v -8 l 128,-16 z"
+       id="path4551-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 384,240 h 272 v 16 H 384 Z"
+       id="rect4615"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 808,560 v 16 h -32 v -16 z"
+       id="path5051"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 784,592 v 16 h -24 v -16 z"
+       id="path4659"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 224,384 136,16 v 8 H 256 l -64,-8 v -16 z"
+       id="path4657"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41421366;stroke-opacity:1"
+       d="m 936,740 h 24 l 8,4 v 8 h -40 v -8 z"
+       id="rect4769"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41421366;stroke-opacity:1"
+       d="m 936,684 h 24 l 8,4 v 8 h -40 v -8 z"
+       id="rect4769-68"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41421366;stroke-opacity:1"
+       d="m 936,628 h 24 l 8,4 v 8 h -40 v -8 z"
+       id="rect4769-68-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41421366;stroke-opacity:1"
+       d="m 936,572 h 24 l 8,4 v 8 h -40 v -8 z"
+       id="rect4769-68-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41421366;stroke-opacity:1"
+       d="m 936,516 h 24 l 8,4 v 8 h -40 v -8 z"
+       id="rect4769-68-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 800,528 h 32 v 16 h -32 z"
+       id="rect4961"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 824,560 h 32 v 16 h -32 z"
+       id="rect4969"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.22474492;stroke-opacity:1"
+       d="m 848,592 h 24 v 16 h -24 z"
+       id="rect4980-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 800,592 h 32 v 16 h -32 z"
+       id="rect4961-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="checkpoints"
+     inkscape:label="checkpoints"
+     style="display:inline">
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint1"
+       sodipodi:sides="5"
+       sodipodi:cx="128"
+       sodipodi:cy="128"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 128,120 2.35114,4.76393 5.25731,0.76393 -3.80422,3.70821 0.89805,5.23607 L 128,132 l -4.70228,2.47214 0.89805,-5.23607 -3.80422,-3.70821 5.25731,-0.76393 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint2"
+       sodipodi:sides="5"
+       sodipodi:cx="725.64886"
+       sodipodi:cy="35.236069"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 725.64886,27.236069 2.35115,4.763932 5.25731,0.763932 -3.80423,3.708204 0.89806,5.236068 -4.70229,-2.472136 -4.70228,2.472136 0.89806,-5.236068 -3.80423,-3.708204 5.25731,-0.763932 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint3"
+       sodipodi:sides="5"
+       sodipodi:cx="283.29773"
+       sodipodi:cy="281.52786"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 283.29773,273.52786 2.35114,4.76393 5.25731,0.76394 -3.80422,3.7082 0.89805,5.23607 -4.70228,-2.47214 -4.70228,2.47214 0.89805,-5.23607 -3.80422,-3.7082 5.25731,-0.76394 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint4"
+       sodipodi:sides="5"
+       sodipodi:cx="674.35114"
+       sodipodi:cy="347.23608"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 674.35114,339.23608 2.35114,4.76394 5.25731,0.76393 -3.80423,3.7082 0.89806,5.23607 -4.70228,-2.47214 -4.70229,2.47214 0.89806,-5.23607 -3.80423,-3.7082 5.25731,-0.76393 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint5"
+       sodipodi:sides="5"
+       sodipodi:cx="876.19574"
+       sodipodi:cy="478.76392"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 876.19574,470.76392 2.35114,4.76393 5.25731,0.76393 -3.80422,3.7082 0.89805,5.23607 -4.70228,-2.47213 -4.70228,2.47213 0.89805,-5.23607 -3.80422,-3.7082 5.25731,-0.76393 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ccff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="checkpoint6"
+       sodipodi:sides="5"
+       sodipodi:cx="492.19577"
+       sodipodi:cy="558.76392"
+       sodipodi:r1="8"
+       sodipodi:r2="4"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 492.19577,550.76392 2.35114,4.76393 5.25731,0.76393 -3.80422,3.7082 0.89805,5.23607 -4.70228,-2.47213 -4.70228,2.47213 0.89805,-5.23607 -3.80422,-3.7082 5.25731,-0.76393 z"
+       inkscape:transform-center-y="-0.76393202"
+       inkscape:label="checkpoint" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="foreground"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="87.899193"
+       x="418.55319"
+       id="image5404"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="87.273026"
+       x="434.99728"
+       id="image5404-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.14928"
+       x="302.55569"
+       id="image5404-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.97144"
+       x="315.54651"
+       id="image5436"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="134.98"
+       x="331.41711"
+       id="image5404-3-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.71286"
+       x="343.33652"
+       id="image5436-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="134.98"
+       x="366.01529"
+       id="image5404-3-1-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.71286"
+       x="377.93469"
+       id="image5436-2-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.23857"
+       x="355.41287"
+       id="image5404-3-1-4-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="43.189495"
+       x="458.315"
+       id="image5404-3-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(5.4501414)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="44.011654"
+       x="471.30582"
+       id="image5436-21"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(5.4501414)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="43.020214"
+       x="487.17642"
+       id="image5404-3-1-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(5.4501414)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="55.690651"
+       x="500.91974"
+       id="image5404-3-6-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(3.9097683)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="56.51281"
+       x="513.91058"
+       id="image5436-21-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(3.9097683)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="55.52137"
+       x="529.78119"
+       id="image5404-3-1-6-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(3.9097683)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="54.213356"
+       x="544.78943"
+       id="image5404-3-6-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(4.0276926)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="55.035515"
+       x="557.78021"
+       id="image5436-21-24"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(4.0276926)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="54.044075"
+       x="573.65082"
+       id="image5404-3-1-6-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(4.0276926)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="53.864029"
+       x="588.28925"
+       id="image5404-3-1-6-8-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(4.0276926)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="96.290817"
+       x="599.01727"
+       id="image5404-3-1-6-8-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-0.03176855)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="95.774284"
+       x="615.59143"
+       id="image5404-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.28784"
+       x="86.696213"
+       id="image5404-3-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="136.11"
+       x="99.687027"
+       id="image5436-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.11856"
+       x="115.55764"
+       id="image5404-3-1-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.85143"
+       x="127.47704"
+       id="image5436-2-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.11856"
+       x="150.15581"
+       id="image5404-3-1-4-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.85143"
+       x="162.07521"
+       id="image5436-2-7-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.37714"
+       x="139.55339"
+       id="image5404-3-1-4-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.24785"
+       x="180.21173"
+       id="image5404-3-1-4-8-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="135.98071"
+       x="192.13113"
+       id="image5436-2-7-7-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="135.06"
+       x="212.02"
+       id="image5404-3-1-4-0-0-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="41.28392"
+       x="702.46057"
+       id="image5404-3-1-4-8-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="42.016785"
+       x="714.37994"
+       id="image5436-2-7-7-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="41.542496"
+       x="691.85815"
+       id="image5404-3-1-4-0-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="41.413208"
+       x="732.51648"
+       id="image5404-3-1-4-8-9-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="42.146072"
+       x="747.8645"
+       id="image5436-2-7-7-7-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="27.042856"
+       x="769.02856"
+       id="image5436-2-7-7-7-6-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="25.059998"
+       x="835.94861"
+       id="image5404-3-1-4-8-9-7-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="41.74107"
+       x="801.38257"
+       id="image5404-3-1-4-8-9-7-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="42.473934"
+       x="812.802"
+       id="image5436-2-7-7-7-6-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="42.400002"
+       x="790.45715"
+       id="image5436-2-7-7-7-6-19"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="42.683208"
+       x="866.98499"
+       id="image5404-3-1-4-8-5-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="43.416069"
+       x="878.90436"
+       id="image5436-2-7-7-1-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="42.941784"
+       x="856.38257"
+       id="image5404-3-1-4-0-0-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="42.812496"
+       x="895.04089"
+       id="image5404-3-1-4-8-9-7-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.35535"
+       x="942.15936"
+       id="image5404-3-1-4-8-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.08823"
+       x="954.0788"
+       id="image5436-2-7-7-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.48465"
+       x="972.21527"
+       id="image5404-3-1-4-8-9-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.2175"
+       x="984.1347"
+       id="image5436-2-7-7-7-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.29678"
+       x="1004.0235"
+       id="image5404-3-1-4-0-0-1-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.35535"
+       x="864.6593"
+       id="image5404-3-1-4-8-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.08823"
+       x="876.57874"
+       id="image5436-2-7-7-14"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.48465"
+       x="894.71527"
+       id="image5404-3-1-4-8-9-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.2175"
+       x="906.63464"
+       id="image5436-2-7-7-7-85"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.29678"
+       x="926.5235"
+       id="image5404-3-1-4-0-0-1-72"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="286.9982"
+       x="835.11694"
+       id="image5404-3-1-4-8-7-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.73108"
+       x="847.03638"
+       id="image5436-2-7-7-6-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.86035"
+       x="799.59222"
+       id="image5436-2-7-7-7-85-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="286.93964"
+       x="819.48108"
+       id="image5404-3-1-4-0-0-1-72-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.17676"
+       x="722.0144"
+       id="image5404-3-1-4-8-7-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.90964"
+       x="733.93384"
+       id="image5436-2-7-7-6-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.30606"
+       x="752.07031"
+       id="image5404-3-1-4-8-9-0-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.03891"
+       x="763.98975"
+       id="image5436-2-7-7-7-8-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.11819"
+       x="783.87854"
+       id="image5404-3-1-4-0-0-1-7-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.17676"
+       x="644.51434"
+       id="image5404-3-1-4-8-4-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.90964"
+       x="656.43378"
+       id="image5436-2-7-7-14-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.30606"
+       x="674.57031"
+       id="image5404-3-1-4-8-9-9-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.03891"
+       x="686.48969"
+       id="image5436-2-7-7-7-85-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.11819"
+       x="706.37848"
+       id="image5404-3-1-4-0-0-1-72-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.55249"
+       x="625.10571"
+       id="image5436-2-7-7-6-5-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="328.11325"
+       x="665.70831"
+       id="image5404-3-1-4-8-4-4-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="328.84613"
+       x="677.62775"
+       id="image5436-2-7-7-14-0-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="328.24255"
+       x="695.76428"
+       id="image5404-3-1-4-8-9-9-4-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="328.48898"
+       x="646.29968"
+       id="image5436-2-7-7-6-5-1-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="327.36517"
+       x="726.5459"
+       id="image5404-3-1-4-8-4-4-3-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="327.38803"
+       x="738.54333"
+       id="image5436-2-7-7-14-0-3-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="326.03543"
+       x="756.40289"
+       id="image5404-3-1-4-8-9-9-4-0-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="327.74091"
+       x="707.13727"
+       id="image5436-2-7-7-6-5-1-3-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="344.88751"
+       x="816.2226"
+       id="image5404-3-1-4-8-4-4-3-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="345.62039"
+       x="828.14203"
+       id="image5436-2-7-7-14-0-3-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="345.01682"
+       x="846.27856"
+       id="image5404-3-1-4-8-9-9-4-0-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="345.26324"
+       x="796.81396"
+       id="image5436-2-7-7-6-5-1-3-97"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="344.13943"
+       x="877.06018"
+       id="image5404-3-1-4-8-4-4-3-5-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="344.16229"
+       x="889.05762"
+       id="image5436-2-7-7-14-0-3-5-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="342.80969"
+       x="906.91718"
+       id="image5404-3-1-4-8-9-9-4-0-2-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="344.51517"
+       x="857.65155"
+       id="image5436-2-7-7-6-5-1-3-9-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.74821"
+       x="575.22833"
+       id="image5404-3-1-4-8-4-44"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.48109"
+       x="587.14777"
+       id="image5436-2-7-7-14-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.87752"
+       x="605.2843"
+       id="image5404-3-1-4-8-9-9-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.61037"
+       x="617.20367"
+       id="image5436-2-7-7-7-85-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.68965"
+       x="637.09253"
+       id="image5404-3-1-4-0-0-1-72-59"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.39107"
+       x="545.68597"
+       id="image5404-3-1-4-8-7-1-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.12395"
+       x="557.60541"
+       id="image5436-2-7-7-6-5-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.25322"
+       x="510.16122"
+       id="image5436-2-7-7-7-85-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.3325"
+       x="530.05011"
+       id="image5404-3-1-4-0-0-1-72-5-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.56963"
+       x="432.5834"
+       id="image5404-3-1-4-8-7-6-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.30251"
+       x="444.50284"
+       id="image5436-2-7-7-6-7-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.69893"
+       x="462.63931"
+       id="image5404-3-1-4-8-9-0-6-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.43178"
+       x="474.55875"
+       id="image5436-2-7-7-7-8-1-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.51106"
+       x="494.44754"
+       id="image5404-3-1-4-0-0-1-7-4-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.51106"
+       x="416.94748"
+       id="image5404-3-1-4-0-0-1-72-1-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="231.78893"
+       x="380.92041"
+       id="image5436-2-7-7-7-85-1-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="230.86821"
+       x="400.80927"
+       id="image5404-3-1-4-0-0-1-72-59-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="338.72327"
+       x="469.10489"
+       id="image5404-3-1-4-8-4-4-3-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="339.45615"
+       x="481.02432"
+       id="image5436-2-7-7-14-0-3-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="338.85257"
+       x="499.16086"
+       id="image5404-3-1-4-8-9-9-4-0-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="339.099"
+       x="449.69626"
+       id="image5436-2-7-7-6-5-1-3-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="337.97519"
+       x="529.94244"
+       id="image5404-3-1-4-8-4-4-3-5-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="337.99805"
+       x="541.93988"
+       id="image5436-2-7-7-14-0-3-5-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="336.64545"
+       x="559.79944"
+       id="image5404-3-1-4-8-9-9-4-0-2-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="338.35092"
+       x="510.53384"
+       id="image5436-2-7-7-6-5-1-3-9-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="322.3009"
+       x="319.64728"
+       id="image5404-3-1-4-8-4-4-3-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="323.03378"
+       x="331.56671"
+       id="image5436-2-7-7-14-0-3-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="322.43021"
+       x="349.70325"
+       id="image5404-3-1-4-8-9-9-4-0-18"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="322.67664"
+       x="300.23865"
+       id="image5436-2-7-7-6-5-1-3-91"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="321.55283"
+       x="380.48486"
+       id="image5404-3-1-4-8-4-4-3-5-00"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="321.57568"
+       x="392.4823"
+       id="image5436-2-7-7-14-0-3-5-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="320.22308"
+       x="410.34186"
+       id="image5404-3-1-4-8-9-9-4-0-2-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="321.92856"
+       x="361.07623"
+       id="image5436-2-7-7-6-5-1-3-9-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="rotate(-6.2704993)" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="272.04285"
+       x="461.17145"
+       id="image5436-2-7-7-7-8-1-2-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="271.6857"
+       x="601.17139"
+       id="image5436-2-7-7-7-8-1-2-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.03894"
+       x="315.0441"
+       id="image5436-2-7-7-7-85-0-0-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="288.2175"
+       x="279.44162"
+       id="image5436-2-7-7-7-8-1-2-23"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.29678"
+       x="299.33041"
+       id="image5404-3-1-4-0-0-1-7-4-5-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.47537"
+       x="263.24783"
+       id="image5404-3-1-4-0-0-1-72-1-3-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.83252"
+       x="247.1096"
+       id="image5404-3-1-4-0-0-1-72-59-6-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="287.14609"
+       x="88.821915"
+       id="image5436-2-7-7-7-8-1-2-23-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.11823"
+       x="80.485268"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="287.47537"
+       x="64.347038"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="373.53894"
+       x="130.85297"
+       id="image5436-2-7-7-7-85-0-0-5-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="375.7175"
+       x="95.250481"
+       id="image5436-2-7-7-7-8-1-2-23-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="374.79678"
+       x="115.13927"
+       id="image5404-3-1-4-0-0-1-7-4-5-8-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="374.97537"
+       x="79.056694"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="375.33252"
+       x="62.918468"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="374.69501"
+       x="154.83743"
+       id="image5436-2-7-7-7-8-1-2-23-7-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="374.66714"
+       x="146.50078"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-4-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="375.02429"
+       x="130.36255"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-0-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="374.52426"
+       x="206.50079"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-4-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="374.88141"
+       x="190.36256"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-0-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="354.5603"
+       x="-370.46869"
+       id="image5404-3-1-4-8-4-4-3-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="355.29318"
+       x="-358.54926"
+       id="image5436-2-7-7-14-0-3-06"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="354.68961"
+       x="-340.41272"
+       id="image5404-3-1-4-8-9-9-4-0-30"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="353.81223"
+       x="-309.6311"
+       id="image5404-3-1-4-8-4-4-3-5-33"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="353.83508"
+       x="-297.63367"
+       id="image5436-2-7-7-14-0-3-5-38"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="352.48248"
+       x="-279.77408"
+       id="image5404-3-1-4-8-9-9-4-0-2-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="354.18796"
+       x="-329.03973"
+       id="image5436-2-7-7-6-5-1-3-9-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="355.53033"
+       x="-397.30579"
+       id="image5404-3-1-4-8-9-9-4-0-30-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="355.02869"
+       x="-385.9328"
+       id="image5436-2-7-7-6-5-1-3-9-6-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="matrix(-0.99551858,-0.09456617,-0.09456617,0.99551858,0,0)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="423.95346"
+       x="224.31303"
+       id="image5436-2-7-7-7-8-1-2-23-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="423.03275"
+       x="244.20183"
+       id="image5404-3-1-4-0-0-1-7-4-5-8-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="423.21133"
+       x="208.11925"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="423.56848"
+       x="191.98103"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="423.19656"
+       x="292.34763"
+       id="image5436-2-7-7-7-8-1-2-23-3-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="422.78091"
+       x="320.7821"
+       id="image5404-3-1-4-0-0-1-7-4-5-8-3-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="422.58072"
+       x="276.15384"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="422.81158"
+       x="258.62668"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-2-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="423.31161"
+       x="333.7265"
+       id="image5404-3-1-4-0-0-1-7-4-5-8-3-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="422.73331"
+       x="364.28955"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="423.09045"
+       x="348.15134"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-2-5-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="422.89621"
+       x="308.47568"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="347.53522"
+       x="656.88422"
+       id="image5436-2-7-7-7-8-1-2-23-3-5-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="347.11957"
+       x="685.31866"
+       id="image5404-3-1-4-0-0-1-7-4-5-8-3-4-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="346.91937"
+       x="640.69043"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="347.15024"
+       x="623.16327"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-2-5-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="347.23486"
+       x="673.01227"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-2-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="347.20285"
+       x="700.23431"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-5-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="479.22702"
+       x="830.5929"
+       id="image5404-3-1-4-8-9-0-6-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="479.95987"
+       x="844.51233"
+       id="image5436-2-7-7-7-8-1-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="479.03915"
+       x="864.40112"
+       id="image5404-3-1-4-0-0-1-7-4-54"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="479.28479"
+       x="881.74304"
+       id="image5404-3-1-4-8-9-0-6-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="479.76511"
+       x="898.46069"
+       id="image5436-2-7-7-7-8-1-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="479.28482"
+       x="742.34271"
+       id="image5404-3-1-4-8-9-0-6-7-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="480.01767"
+       x="758.26215"
+       id="image5436-2-7-7-7-8-1-6-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="479.09695"
+       x="778.15094"
+       id="image5404-3-1-4-0-0-1-7-4-54-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="507.49649"
+       x="933.50757"
+       id="image5404-3-1-4-0-0-1-7-4-54-28"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="508.09409"
+       x="938.65857"
+       id="image5436-2-7-7-7-8-1-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="563.44952"
+       x="-961.61371"
+       id="image5404-3-1-4-0-0-1-7-4-54-28-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="scale(-1,1)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="564.04712"
+       x="-956.46271"
+       id="image5436-2-7-7-7-8-1-0-0-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       transform="scale(-1,1)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="619.66974"
+       x="941.13391"
+       id="image5404-3-1-4-0-0-1-7-4-54-28-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="620.01483"
+       x="931.8902"
+       id="image5436-2-7-7-7-8-1-0-0-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="675.22809"
+       x="934.06281"
+       id="image5404-3-1-4-0-0-1-7-4-54-28-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="675.82568"
+       x="939.21381"
+       id="image5436-2-7-7-7-8-1-0-0-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="732.09546"
+       x="932.34521"
+       id="image5436-2-7-7-7-8-1-0-0-0-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="731.75031"
+       x="-962.29626"
+       id="image5404-3-1-4-0-0-1-7-4-54-28-4-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       transform="scale(-1,1)" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.60211"
+       x="934.01917"
+       id="image5404-3-1-4-8-9-0-6-7-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="760.33496"
+       x="947.9386"
+       id="image5436-2-7-7-7-8-1-6-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.41425"
+       x="967.82739"
+       id="image5404-3-1-4-0-0-1-7-4-54-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.65991"
+       x="985.16931"
+       id="image5404-3-1-4-8-9-0-6-8-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="760.1402"
+       x="1001.887"
+       id="image5436-2-7-7-7-8-1-0-03"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.49823"
+       x="919.9104"
+       id="image5404-3-1-4-8-4-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.87396"
+       x="902.28748"
+       id="image5436-2-7-7-6-5-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="519.17645"
+       x="799.06885"
+       id="image5404-3-1-4-8-9-0-6-7-30"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="519.9093"
+       x="808.98828"
+       id="image5436-2-7-7-7-8-1-6-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="520.00323"
+       x="743.50421"
+       id="image5436-2-7-7-7-8-1-6-9-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="519.08252"
+       x="763.39301"
+       id="image5404-3-1-4-0-0-1-7-4-54-2-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="519.64606"
+       x="847.07556"
+       id="image5436-2-7-7-7-8-1-6-9-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="518.72534"
+       x="866.96436"
+       id="image5404-3-1-4-0-0-1-7-4-54-2-02"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="115.90237"
+       x="235.80438"
+       id="image5436-2-7-7-7-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="94.596642"
+       x="256.24088"
+       id="image5404-3-1-4-0-0-1-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="74.898659"
+       x="280.19141"
+       id="image5404-3-1-4-8-9-73"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="115.05222"
+       x="230.44139"
+       id="image5404-3-1-4-0-0-1-35"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="567.61548"
+       x="476.96478"
+       id="image5436-2-7-7-7-8-1-2-23-3-5-9-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="567.31512"
+       x="493.09283"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-5-4-2-2-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.16095"
+       x="398.04688"
+       id="image5404-3-1-4-8-7-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.89386"
+       x="409.96631"
+       id="image5436-2-7-7-6-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.29028"
+       x="428.10278"
+       id="image5404-3-1-4-8-9-0-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="760.02313"
+       x="440.02222"
+       id="image5436-2-7-7-7-8-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.10242"
+       x="459.91101"
+       id="image5404-3-1-4-0-0-1-7-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.16095"
+       x="320.54681"
+       id="image5404-3-1-4-8-4-46"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.89386"
+       x="332.46625"
+       id="image5436-2-7-7-14-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.29028"
+       x="350.60278"
+       id="image5404-3-1-4-8-9-9-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="760.02313"
+       x="362.52216"
+       id="image5436-2-7-7-7-85-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.10242"
+       x="382.41101"
+       id="image5404-3-1-4-0-0-1-72-16"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.80383"
+       x="291.00446"
+       id="image5404-3-1-4-8-7-1-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.53668"
+       x="302.92389"
+       id="image5436-2-7-7-6-5-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.66595"
+       x="255.47972"
+       id="image5436-2-7-7-7-85-0-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.74524"
+       x="275.36859"
+       id="image5404-3-1-4-0-0-1-72-5-1"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.98236"
+       x="177.90193"
+       id="image5404-3-1-4-8-7-6-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.71527"
+       x="189.82137"
+       id="image5436-2-7-7-6-7-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.11169"
+       x="207.95781"
+       id="image5404-3-1-4-8-9-0-6-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.84454"
+       x="219.87724"
+       id="image5436-2-7-7-7-8-1-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.92383"
+       x="239.76604"
+       id="image5404-3-1-4-0-0-1-7-4-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.98236"
+       x="96.401901"
+       id="image5404-3-1-4-8-4-4-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.71527"
+       x="112.32133"
+       id="image5436-2-7-7-14-0-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.11169"
+       x="130.45787"
+       id="image5404-3-1-4-8-9-9-4-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.84454"
+       x="142.37724"
+       id="image5436-2-7-7-7-85-9-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="758.92383"
+       x="162.26604"
+       id="image5404-3-1-4-0-0-1-72-1-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.35809"
+       x="76.993271"
+       id="image5436-2-7-7-6-5-1-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.80884"
+       x="56.638996"
+       id="image5436-2-7-7-7-85-0-2-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="759.98743"
+       x="19.036551"
+       id="image5436-2-7-7-7-8-1-3-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="759.06671"
+       x="38.925343"
+       id="image5404-3-1-4-0-0-1-7-4-6-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="551.31927"
+       x="836.21167"
+       id="image5404-3-1-4-8-9-0-6-7-30-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="551.69495"
+       x="822.55969"
+       id="image5436-2-7-7-7-8-1-6-7-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="583.28363"
+       x="812.77454"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="583.27429"
+       x="799.87714"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="583.82861"
+       x="845.09998"
+       id="image5436-2-7-7-7-8-1-6-7-0-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="583.27429"
+       x="852.37714"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9-7"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="551.13611"
+       x="788.46875"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9-79"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="551.12677"
+       x="775.57135"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9-3-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="551.68573"
+       x="867.59998"
+       id="image5436-2-7-7-7-8-1-6-7-0-3"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="550.77423"
+       x="741.30573"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="582.92181"
+       x="764.89728"
+       id="image5404-3-1-4-8-9-0-6-7-30-8-9-37"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="583.82861"
+       x="756.52856"
+       id="image5436-2-7-7-7-8-1-6-7-0-33"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="614.79681"
+       x="832.11719"
+       id="image5404-3-1-4-0-0-1-7-4-54-14"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="615.04242"
+       x="849.45911"
+       id="image5404-3-1-4-8-9-0-6-8-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="615.52277"
+       x="866.17676"
+       id="image5436-2-7-7-7-8-1-0-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="615.25714"
+       x="820.45715"
+       id="image5436-2-7-7-7-8-1-6-7-0-8-8"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="614.89417"
+       x="752.8288"
+       id="image5404-3-1-4-0-0-1-7-4-54-14-4"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="615.13977"
+       x="770.17072"
+       id="image5404-3-1-4-8-9-0-6-8-4-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="615.62012"
+       x="786.88837"
+       id="image5436-2-7-7-7-8-1-0-6-5"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="615.35449"
+       x="741.16876"
+       id="image5436-2-7-7-7-8-1-6-7-0-8-8-2"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass5.png"
+       y="39.465492"
+       x="64.722328"
+       id="image5436-2-7-7-7-8-1-2-23-7-9"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass5.png"
+       preserveAspectRatio="none"
+       height="11.2"
+       width="24.799999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="39.43763"
+       x="56.385674"
+       id="image5404-3-1-4-0-0-1-72-1-3-3-4-0"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+    <image
+       style="display:inline"
+       sodipodi:absref="C:\Users\bob\projects\ld47\assets\grass4.png"
+       y="39.794777"
+       x="40.247444"
+       id="image5404-3-1-4-0-0-1-72-59-6-8-0-6"
+       xlink:href="file:///C:/Users/bob/projects/ld47/assets/grass4.png"
+       preserveAspectRatio="none"
+       height="10.88"
+       width="20.959999" />
+  </g>
+</svg>

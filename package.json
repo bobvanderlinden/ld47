@@ -1,0 +1,51 @@
+{
+  "name": "ld47",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deterministic": "^0.2.1",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "object-hash": "^2.0.3",
+    "sockjs": "^0.3.21",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "file-loader": "^6.1.0",
+    "html-webpack-plugin": "^4.5.0",
+    "jsondiffpatch": "^0.4.1",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.2",
+    "svg-parser": "^2.0.4",
+    "svgpath": "^2.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-html-plugin": "^0.1.1"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "extends": [
+      "prettier"
+    ],
+    "rules": {
+      "no-loop-func": "error"
+    }
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false
+  }
+}
